@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+![Babouuchee's Stats](https://github-readme-stats.vercel.app/api?username=Babouuchee&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
