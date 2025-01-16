@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Baptiste Caulier</h1>
-<h3 align="center">A passionate french developper based in Boardeaux</h3>
+<h3 align="center">A passionate french developper based in Bordeaux</h3>
 
 - ⚡ I'm currently looking for an internship ! Contact me if you have anything available
 
-- 🌱 I’m currently learning **Nuxt.js and backend framework**
-
 - 📫 How to reach me **baptiste.caulier@epitech.eu**
+
+- 🌱 I’m currently learning more about **Nuxt.js and backend framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
