@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - ⚡ I'm currently looking for an internship ! Contact me if you have anything available
 
-- 📫 How to reach me **baptiste.caulier@epitech.eu**
+- 📫 How to reach me: **baptiste.caulier@epitech.eu**
 
 - 🌱 I’m currently learning more about **Nuxt.js and backend framework**
 
