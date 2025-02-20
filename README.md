@@ -47,4 +47,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-![Babouuchee's Stats](https://github-readme-stats.vercel.app/api?username=Babouuchee&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![Babouuchee's Stats](https://github-readme-stats.vercel.app/api?username=Babouuchee&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true) -->
