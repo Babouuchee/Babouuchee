@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Baptiste Caulier</h1>
-<h3 align="center">A passionate french developper based in Bordeaux</h3>
+<h3 align="center">A french developper based in Bordeaux</h3>
 
 - 📫 How to reach me: **baptiste.caulier@epitech.eu**
 
