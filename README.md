@@ -16,11 +16,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Baptiste Caulier</h1>
 <h3 align="center">A french developper based in Bordeaux</h3>
 
-- 📫 How to reach me: **baptiste.caulier@epitech.eu**
+- 🌱 Working on Kelp Learning
 
-- 🌱 I’m currently learning more about **Nuxt.js and backend framework**
+- ⚡ I’m currently learning more about **Nuxt.js and Expo**
 
 - 💬 Also playing with a little bit of **Unity**...
+
+- 📫 How to reach me: **baptiste.caulier@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
