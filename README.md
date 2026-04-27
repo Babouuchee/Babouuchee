@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 - 🌱 Working on Kelp Learning
 
-- ⚡ I’m currently learning more about **Nuxt.js and Expo**
+- ⚡ I’m currently learning more about **React and Expo**
 
-- 💬 Also playing with a little bit of **Unity**...
+- 💬 Also playing with a little bit of **Unreal Engine**...
 
 - 📫 How to reach me: **baptiste.caulier@epitech.eu**
 
